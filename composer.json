@@ -2,19 +2,14 @@
     "name": "codeclan/domain",
     "description": "Create Model, Repository, Request....",
     "license": "Code Clans",
-    "minimum-stability": "stable",
     "authors": [
         {
             "name": "kosalkan",
             "email": "kosal_kan@yahoo.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
-
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0-dev"
-        }
-    },
+        "php": ">=5.4.0"
+    }
 }
