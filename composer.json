@@ -9,7 +9,8 @@
             "email": "kosal_kan@yahoo.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         
     }
