@@ -2,6 +2,7 @@
     "name": "codeclan/domain",
     "description": "Create Model, Repository, Request....",
     "license": "Code Clans",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "kosalkan",
