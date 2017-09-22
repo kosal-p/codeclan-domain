@@ -1,0 +1,12 @@
+{
+    "name": "codeclan/domain",
+    "description": "Create Model, Repository, Request....",
+    "license": "Code Clans",
+    "authors": [
+        {
+            "name": "kosalkan",
+            "email": "kosal_kan@yahoo.com"
+        }
+    ],
+    "require": {}
+}
