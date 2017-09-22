@@ -2,6 +2,7 @@
     "name": "codeclan/domain",
     "description": "Create Model, Repository, Request....",
     "license": "Code Clans",
+    "homepage": "https://github.com/kosalweb/codeclan-domain",
     "authors": [
         {
             "name": "kosalkan",
@@ -9,7 +10,10 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0"
+        "php": "^5.5.9 || ^7.0"
     },
-    "minimum-stability": "dev"
+    "prefer-stable": true,
+    "require-dev": {
+        "phpunit/phpunit": "^4.8 || ^5.0"
+    }
 }
